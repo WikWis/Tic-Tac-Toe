@@ -28,3 +28,8 @@ Odpowiada za:
 * renderowanie planszy
 * obsługę kliknięć
 * aktualizację widoku
+
+------
+
+### `ZDJĘCIE`
+![ZDJECIE1](./img1.png)
